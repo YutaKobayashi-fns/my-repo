@@ -1,0 +1,86 @@
+# Visual Studio
+
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Build output
+
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+arm64/
+
+# Visual Studio C++ generated files
+
+*.VC.db
+*.VC.VC.opendb
+*.VC.db-shm
+*.VC.db-wal
+*.ipch/
+*.aps
+*.ncb
+*.sdf
+*.opensdf
+
+# CMake generated files
+
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+compile_commands.json
+CTestTestfile.cmake
+Testing/
+
+# CMake build directories
+
+cmake-build-*/
+build/
+out/
+
+# Test results
+
+TestResults/
+*.trx
+
+# Coverage
+
+coverage/
+*.coverage
+*.coveragexml
+
+# Logs
+
+*.log
+
+# NuGet
+
+packages/
+*.nupkg
+*.snupkg
+
+# Generated files
+
+GeneratedFiles/
+Generated/
+*.generated.h
+
+# Temporary files
+
+*.tmp
+*.temp
+*.bak
+*.swp
+*~
+
+# OS generated files
+
+.DS_Store
+Thumbs.db
+desktop.ini
