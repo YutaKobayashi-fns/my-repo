@@ -3,6 +3,7 @@ using System.Globalization;
 
 class Program
 {
+    // メニューを表示し、入力に応じてカレンダー表示・本日日付表示・終了を行う
     static void Main()
     {
         while (true)
